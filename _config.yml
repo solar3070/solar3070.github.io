@@ -6,7 +6,7 @@
 # Site
 title: Jun's
 subtitle: Never give up
-description:
+description: 포기란 제일 쉽고 시시한 것
 author: HyeJun Lee
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -215,7 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-
+  GitHub: "https://github.com/solar3070"
 
 # Social Links Icons
 # Icon Mapping:
@@ -226,9 +226,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: "https://github.com/solar3070"
 
 
 # Sidebar Avatar
